@@ -1,0 +1,6 @@
+Best Local Alignment:
+
+AATTAT-C-G-AGCTCG
+AA-TATGCGGTA-C-CG
+
+Alignment Score: 11
